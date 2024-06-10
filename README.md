@@ -1,4 +1,4 @@
-# SDWrox.API Deployment
+# CoreAPI Deployment
 
 Install .NET Core Windows Server Hosting Bundle
 Before you deploy your application, you need to install the .NET Core hosting bundle for IIS – .NET Core runtime, libraries and the ASP.NET Core module for IIS.
